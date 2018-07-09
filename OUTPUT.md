@@ -27,11 +27,13 @@ A set of Dynamic programming problems solved in Java
     
     then,
     
-    $C(i) = min\{C(i-1), C(i-2)\} + A[i]$
+    $$
+    C(i) = min\{C(i-1), C(i-2)\} + A[i]
+    $$
     
     Base case:
     
-    $C(0) = A[0]$,
+    $$C(0) = A[0]$$,
     
     $C(1) = A[1]$
     
