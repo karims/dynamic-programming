@@ -23,18 +23,16 @@ A set of Dynamic programming problems solved in Java
          
  Solution:
     
- Let <img src="svgs/f0b7066ab97b643052e3de5559a82e4d.svg?sanitize=true&invert_in_darkmode" align=middle width=34.11295304999999pt height=24.65753399999998pt/> be the cost to reach step <img src="svgs/77a3b857d53fb44e33b53e4c8b68351a.svg?sanitize=true&invert_in_darkmode" align=middle width=5.663225699999989pt height=21.68300969999999pt/>,
-    
+ Let <img src="svgs/f0b7066ab97b643052e3de5559a82e4d.svg?sanitize=true&invert_in_darkmode" align=middle width=34.11295304999999pt height=24.65753399999998pt/> be the cost to reach step <img src="svgs/77a3b857d53fb44e33b53e4c8b68351a.svg?sanitize=true&invert_in_darkmode" align=middle width=5.663225699999989pt height=21.68300969999999pt/>,   
  then,
+ 
+  <img src="svgs/12a4e03bf8cb8944b8e8d5f962748378.svg?sanitize=true&invert_in_darkmode" align=middle width=273.58149225pt height=24.65753399999998pt/>
+    
+  Base case: 
   
-  <p align="center"><img src="svgs/66b88288bd7ec1741109fbe914d9bb00.svg?sanitize=true&invert_in_darkmode" align=middle width=273.58149225pt height=16.438356pt/></p>
-    
-  Base case:
-    
-  <p align="center"><img src="svgs/36c29fb4219b33caf32abd9dcd09f73b.svg?sanitize=true&invert_in_darkmode" align=middle width=85.52736719999999pt height=16.438356pt/></p>,
-    
+  <img src="svgs/edd6525ca89c8a93144d9c6a8318625c.svg?sanitize=true&invert_in_darkmode" align=middle width=85.52736719999999pt height=24.65753399999998pt/>,    
   <img src="svgs/195c02650bce9ef645cbd305c7458af8.svg?sanitize=true&invert_in_darkmode" align=middle width=85.52736719999999pt height=24.65753399999998pt/>
     
   Result:
-    
+  
   <img src="svgs/198e6aae4a23919d4b4c45dd58450d06.svg?sanitize=true&invert_in_darkmode" align=middle width=153.17180009999998pt height=24.65753399999998pt/>

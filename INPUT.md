@@ -23,20 +23,18 @@ A set of Dynamic programming problems solved in Java
          
  Solution:
     
- Let $C\left( i\right)$ be the cost to reach step $i$,
-    
+ Let $C\left( i\right)$ be the cost to reach step $i$,   
  then,
-  
-  $$
+ 
+  $
   C(i) = min\{C(i-1), C(i-2)\} + A[i]
-  $$
+  $
     
-  Base case:
-    
-  $$C(0) = A[0]$$,
-    
+  Base case: 
+  
+  $C(0) = A[0]$,    
   $C(1) = A[1]$
     
   Result:
-    
+  
   $min\{C(n-1), C(n)\}$

@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+OUTPUT.md.html
 
 # IDE
 .idea
