@@ -21,22 +21,22 @@ A set of Dynamic programming problems solved in Java
        Output: 15
        Explanation: Cheapest is start on cost[1], pay that cost and go to the top.
          
-    Solution:
+ Solution:
     
-    Let $C(i)$ be the cost to reach step $i$,
+ Let $C\left( i\right)$ be the cost to reach step $i$,
     
-    then,
+ then,
+  
+  $$
+  C(i) = min\{C(i-1), C(i-2)\} + A[i]
+  $$
     
-    $$
-    C(i) = min\{C(i-1), C(i-2)\} + A[i]
-    $$
+  Base case:
     
-    Base case:
+  $$C(0) = A[0]$$,
     
-    $$C(0) = A[0]$$,
+  $C(1) = A[1]$
     
-    $C(1) = A[1]$
+  Result:
     
-    Result:
-    
-    $min\{C(n-1), C(n)\}$
+  $min\{C(n-1), C(n)\}$
