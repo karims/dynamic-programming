@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2518ab40-ba69-4d7f-b2df-2aad620f0669" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OUTPUT.md" afterPath="$PROJECT_DIR$/OUTPUT.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg" afterPath="$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,10 +50,20 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="57">
-                <caret line="0" column="153" lean-forward="false" selection-start-line="0" selection-start-column="153" selection-end-line="0" selection-end-column="153" />
+                <caret line="0" column="155" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="155" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a5b96bf2d8bd9059bb958841ba3f2beb.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,8 +95,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/scificoding/dp/MaxContiguousSumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/scificoding/dp/MinClimbingStairs.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/OUTPUT.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/OUTPUT.md" />
       </list>
     </option>
   </component>
@@ -486,14 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/scificoding/dp/MinClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -502,11 +505,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OUTPUT.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="57">
-            <caret line="0" column="153" lean-forward="false" selection-start-line="0" selection-start-column="153" selection-end-line="0" selection-end-column="153" />
+            <caret line="0" column="155" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="155" />
             <folding />
           </first_editor>
           <second_editor />
