@@ -1,1 +1,1 @@
-The *Gamma function* satisfying <img src="https://rawgit.com/in	git@github.com:karims/dynamic-programming/None/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg?invert_in_darkmode" align=middle width=177.77390234999996pt height=24.65753399999998pt/> is via the Euler integral
+The *Gamma function* satisfying <img src="https://raw.githubusercontent.com/karims/dynamic-programming/master/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg" align=middle width=177.77390234999996pt height=24.65753399999998pt/> is via the Euler integral
