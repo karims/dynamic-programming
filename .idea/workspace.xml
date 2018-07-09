@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2518ab40-ba69-4d7f-b2df-2aad620f0669" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OUTPUT.md" afterPath="$PROJECT_DIR$/OUTPUT.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg" afterPath="$PROJECT_DIR$/svgs/a5b96bf2d8bd9059bb958841ba3f2beb.svg" />
-    </list>
+    <list default="true" id="2518ab40-ba69-4d7f-b2df-2aad620f0669" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/OUTPUT.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="0" column="155" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="155" />
+              <first_editor relative-caret-position="19">
+                <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="93" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -516,8 +513,8 @@
     <entry file="file://$PROJECT_DIR$/OUTPUT.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="0" column="155" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="155" />
+          <first_editor relative-caret-position="19">
+            <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="93" />
             <folding />
           </first_editor>
           <second_editor />
