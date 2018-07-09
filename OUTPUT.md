@@ -25,12 +25,10 @@ A set of Dynamic programming problems solved in Java
     
     Let <img src="svgs/f0b7066ab97b643052e3de5559a82e4d.svg?sanitize=true&invert_in_darkmode" align=middle width=34.11295304999999pt height=24.65753399999998pt/> be the cost to reach step <img src="svgs/77a3b857d53fb44e33b53e4c8b68351a.svg?sanitize=true&invert_in_darkmode" align=middle width=5.663225699999989pt height=21.68300969999999pt/>,   
     then,
- 
-  <img src="svgs/12a4e03bf8cb8944b8e8d5f962748378.svg?sanitize=true&invert_in_darkmode" align=middle width=273.58149225pt height=24.65753399999998pt/>
+    <img src="svgs/12a4e03bf8cb8944b8e8d5f962748378.svg?sanitize=true&invert_in_darkmode" align=middle width=273.58149225pt height=24.65753399999998pt/>
     
-   Base case: 
-  
-  <img src="svgs/edd6525ca89c8a93144d9c6a8318625c.svg?sanitize=true&invert_in_darkmode" align=middle width=85.52736719999999pt height=24.65753399999998pt/>,    
+   Base case:  
+   <img src="svgs/edd6525ca89c8a93144d9c6a8318625c.svg?sanitize=true&invert_in_darkmode" align=middle width=85.52736719999999pt height=24.65753399999998pt/>,    
   <img src="svgs/195c02650bce9ef645cbd305c7458af8.svg?sanitize=true&invert_in_darkmode" align=middle width=85.52736719999999pt height=24.65753399999998pt/>
     
    Result:
